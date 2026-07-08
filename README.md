@@ -1,3 +1,15 @@
+# Dylan Antonio Jiménez
+
+### Desarrollador .NET | Backend | ASP.NET Core | SQL Server | WPF
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 # Hola, soy Dylan Antonio Jiménez 👋
 
 Soy desarrollador de software enfocado en el ecosistema .NET, con experiencia creando aplicaciones web, servicios backend, APIs REST y soluciones empresariales.
