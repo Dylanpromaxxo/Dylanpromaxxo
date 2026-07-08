@@ -1,67 +1,54 @@
+<div align="center">
+
 # Dylan Antonio Jiménez
 
-### Desarrollador .NET | Backend | ASP.NET Core | SQL Server | WPF
+**Desarrollador .NET · Backend · APIs REST**
 
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-antonio-jimenez-tinti-2b4b60391/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jimenezdylanantonio@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dylanpromaxxo)
 
-
-# Hola, soy Dylan Antonio Jiménez 👋
-
-Soy desarrollador de software enfocado en el ecosistema .NET, con experiencia creando aplicaciones web, servicios backend, APIs REST y soluciones empresariales.
-
-Me especializo en el desarrollo con C#, ASP.NET Core, Entity Framework Core y SQL Server, aplicando buenas prácticas como arquitectura por capas, uso de DTOs, repositorios, interfaces y separación de responsabilidades.
-
-Actualmente también estoy fortaleciendo mis habilidades en WPF para aplicaciones de escritorio y React para interfaces web modernas.
+</div>
 
 ---
 
-## Tecnologías
+### Sobre mí
 
-- C# / .NET
-- ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- APIs REST
-- Blazor
-- Razor Pages
-- WPF / XAML
-- React
-- HTML / CSS / JavaScript
-- Git / GitHub
+Desarrollador de software especializado en el ecosistema **.NET**, con experiencia construyendo APIs REST, servicios backend y aplicaciones empresariales. Trabajo principalmente con **C#, ASP.NET Core, Entity Framework Core y SQL Server**, aplicando arquitectura por capas, DTOs, repositorios y separación de responsabilidades.
+
+Actualmente ampliando mis habilidades en **WPF** para escritorio y **React** para interfaces web modernas.
 
 ---
 
-## Proyectos destacados
+### Stack
 
-### PymeTech
-Sistema administrativo SaaS con gestión de inventario, usuarios, roles, proveedores, categorías y facturación FEL.  
-Desarrollado con .NET, Entity Framework Core, SQL Server y arquitectura por capas.
-
-### DevFlowAssistant
-Aplicación de escritorio desarrollada con WPF, .NET, SQLite y Entity Framework Core para gestionar flujos de trabajo locales.
-
-### E-commerce MVC
-Aplicación web desarrollada con ASP.NET MVC, SQL Server y arquitectura organizada por capas.
+| Backend | Datos | Frontend | Herramientas |
+|---|---|---|---|
+| C# · .NET | SQL Server | WPF / XAML | Git / GitHub |
+| ASP.NET Core | Entity Framework Core | React | Docker *(en progreso)* |
+| Razor Pages · Blazor | SQLite | HTML / CSS / JS | |
 
 ---
 
-## Actualmente aprendiendo
+### Proyectos destacados
 
-- WPF avanzado
-- Buenas prácticas en arquitectura backend
-- Docker
-- React
-- Optimización de consultas SQL
+**[PymeTech](https://github.com/Dylanpromaxxo)** — Sistema administrativo SaaS con gestión de inventario, usuarios, roles, proveedores y facturación FEL.
+`.NET` `Entity Framework Core` `SQL Server` `Arquitectura por capas`
+
+**[DevFlowAssistant](https://github.com/Dylanpromaxxo)** — Aplicación de escritorio para gestión de flujos de trabajo locales.
+`WPF` `.NET` `SQLite` `Entity Framework Core`
+
+**[E-commerce MVC](https://github.com/Dylanpromaxxo)** — Aplicación web de comercio electrónico organizada por capas.
+`ASP.NET MVC` `SQL Server`
 
 ---
 
-## Contacto
+### Actualmente aprendiendo
 
-- GitHub: @Dylanpromaxxo
-- LinkedIn: https://www.linkedin.com/in/dylan-antonio-jimenez-tinti-2b4b60391/
-- Email: jimenezdylanantonio@gmail.com
+`WPF avanzado` · `Arquitectura backend` · `Docker` · `React` · `Optimización de consultas SQL`
+
+<div align="center">
+
+*¿Trabajamos juntos? Contáctame por [LinkedIn](https://www.linkedin.com/in/dylan-antonio-jimenez-tinti-2b4b60391/) o [correo](mailto:jimenezdylanantonio@gmail.com).*
+
+</div>
