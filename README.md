@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hola, soy Dylan Antonio Jiménez 👋
 
-<!--
-**Dylanpromaxxo/Dylanpromaxxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software enfocado en el ecosistema .NET, con experiencia creando aplicaciones web, servicios backend, APIs REST y soluciones empresariales.
 
-Here are some ideas to get you started:
+Me especializo en el desarrollo con C#, ASP.NET Core, Entity Framework Core y SQL Server, aplicando buenas prácticas como arquitectura por capas, uso de DTOs, repositorios, interfaces y separación de responsabilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente también estoy fortaleciendo mis habilidades en WPF para aplicaciones de escritorio y React para interfaces web modernas.
+
+---
+
+## Tecnologías
+
+- C# / .NET
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- APIs REST
+- Blazor
+- Razor Pages
+- WPF / XAML
+- React
+- HTML / CSS / JavaScript
+- Git / GitHub
+
+---
+
+## Proyectos destacados
+
+### PymeTech
+Sistema administrativo SaaS con gestión de inventario, usuarios, roles, proveedores, categorías y facturación FEL.  
+Desarrollado con .NET, Entity Framework Core, SQL Server y arquitectura por capas.
+
+### DevFlowAssistant
+Aplicación de escritorio desarrollada con WPF, .NET, SQLite y Entity Framework Core para gestionar flujos de trabajo locales.
+
+### E-commerce MVC
+Aplicación web desarrollada con ASP.NET MVC, SQL Server y arquitectura organizada por capas.
+
+---
+
+## Actualmente aprendiendo
+
+- WPF avanzado
+- Buenas prácticas en arquitectura backend
+- Docker
+- React
+- Optimización de consultas SQL
+
+---
+
+## Contacto
+
+- GitHub: @Dylanpromaxxo
+- LinkedIn: agrega aquí tu LinkedIn
+- Email: agrega aquí tu correo profesional
