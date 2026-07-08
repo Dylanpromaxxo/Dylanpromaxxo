@@ -63,5 +63,5 @@ Aplicación web desarrollada con ASP.NET MVC, SQL Server y arquitectura organiza
 ## Contacto
 
 - GitHub: @Dylanpromaxxo
-- LinkedIn: agrega aquí tu LinkedIn
-- Email: agrega aquí tu correo profesional
+- LinkedIn: https://www.linkedin.com/in/dylan-antonio-jimenez-tinti-2b4b60391/
+- Email: jimenezdylanantonio@gmail.com
